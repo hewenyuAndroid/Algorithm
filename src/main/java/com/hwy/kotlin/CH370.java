@@ -54,7 +54,8 @@ public class CH370 {
     /**
      * 方案2: 使用差分数组的方案
      * 1. 构造一个差分数组 diff 差分数组， diff[i] = nums[i] - nums[i-1]
-     * 2. 通过差分数组反推出原始数组 nums[i] = diff[i] + nums[i-1]
+     * 2. 通过差分数组反推出原始数组 nums[i] = diff[i] + nums[i-1] ==> nums[i] = diff[0] + diff[1] +...+ diff[i]
+     * 原数组为差分数组的前缀和
      * <p>
      * 可以看出 diff 数组反推 nums 数组时，如果对 diff[i] 数据进行了一次操作，
      * 那么该次操作会影响到 nums 数组的 [i, nums.length) 区间的所有数据
