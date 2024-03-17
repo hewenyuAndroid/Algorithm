@@ -101,6 +101,8 @@
 
 🟠 [34. 在排序数组中查找元素的第一个和最后一个位置](src/main/java/com/hwy/kotlin/CH34.java)
 
+🟢 [704. 二分查找](src/main/java/com/hwy/kotlin/CH704.java)
+
 
 
 
