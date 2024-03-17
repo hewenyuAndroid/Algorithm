@@ -107,6 +107,7 @@
 
 🔴 [410. 分割数组的最大值](src/main/java/com/hwy/kotlin/CH410.java)
 
+🟠 [875. 爱吃香蕉的珂珂](src/main/java/com/hwy/kotlin/CH875.java)
 
 
 
