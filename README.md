@@ -105,6 +105,8 @@
 
 🟠 [1011. 在D天内送达包裹的能力](src/main/java/com/hwy/kotlin/CH1011.java)
 
+🔴 [410. 分割数组的最大值](src/main/java/com/hwy/kotlin/CH410.java)
+
 
 
 
